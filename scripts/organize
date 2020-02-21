@@ -6,8 +6,9 @@ for json in "$@"; do
     echo "Organizing $json"
     p=${json//.json/};
     rm -rf "$p"
-    # we demand directory to be empty ATM so we will move log around
     dandi organize --invalid warn --top-path "$p" --mode simulate "$json" > "$p.log" 2>&1
-    mv "$p.log" "$p/log"
-    tail -n 1 "$p/log"
+    tail -n 1 "$p.log"
+    # we demand directory to be empty ATM so we will move log around
+    # mv "$p.log" "$p/log"
+    # it might not exist if no paths were processed for some reason -- allen!?
 done
