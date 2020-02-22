@@ -1,0 +1,11 @@
+2020-02-21 23:42:22,442 [ WARNING] 9 out of 52 paths are not unique:
+   sub-anm106213/sub-anm106213_ses-20101215_behavior+icephys.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm106213_2010-12-15_Cell32.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm106213_2010-12-15_Cell33.nwb']
+   sub-anm215592/sub-anm215592_ses-20131015_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm215592_2013-10-15_Cell09.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm215592_2013-10-15_Cell28.nwb']
+   sub-anm226694/sub-anm226694_ses-20140222_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm226694_2014-02-22_Cell12.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm226694_2014-02-22_Cell31.nwb']
+   sub-anm226695/sub-anm226695_ses-20140224_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm226695_2014-02-24_Cell18.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm226695_2014-02-24_Cell19.nwb']
+   sub-anm244024/sub-anm244024_ses-20141112_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm244024_2014-11-12_Cell07.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm244024_2014-11-12_Cell15.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm244024_2014-11-12_Cell22.nwb']
+   sub-anm244025/sub-anm244025_ses-20141026_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm244025_2014-10-26_Cell04.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm244025_2014-10-26_Cell24.nwb']
+   sub-anm244028/sub-anm244028_ses-20141021_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm244028_2014-10-21_Cell01.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm244028_2014-10-21_Cell03.nwb']
+   sub-anm266945/sub-anm266945_ses-20141222_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm266945_2014-12-22_Cell25.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm266945_2014-12-22_Cell08.nwb']
+   sub-anm266951/sub-anm266951_ses-20141201_behavior+icephys+ogen.nwb: ['Hires-Gutnisky_2015/exported_nwb2.0/anm266951_2014-12-01_Cell02.nwb', 'Hires-Gutnisky_2015/exported_nwb2.0/anm266951_2014-12-01_Cell05.nwb']
+2020-02-21 23:42:22,443 [    INFO] Finished processing 52 paths (0 invalid skipped) with 9 having duplicates. Visit organized/svoboda-Hires-Gutnisky_2015
