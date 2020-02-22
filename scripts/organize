@@ -2,9 +2,10 @@
 
 set -eu
 
+mkdir -p organized
 for json in "$@"; do
     echo "Organizing $json"
-    p=${json//.json/};
+    p=organized/${json//.json/};
     rm -rf "$p"
     dandi organize --invalid warn --top-path "$p" --mode simulate "$json" > "$p.log" 2>&1
     tail -n 1 "$p.log"
