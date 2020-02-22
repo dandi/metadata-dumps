@@ -2,6 +2,6 @@
 
 outd="$PWD"; 
 
-cd /Volumes/easystore5T/data/DANDI/nwb_lizhou/nwb
+cd "../nwb-datasets/bendichter/Kriegstein data"
 
 dandi ls -f json *.nwb >| $outd/kriegstein-icephys-2020.json 
