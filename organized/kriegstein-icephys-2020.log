@@ -1,0 +1,50 @@
+2020-02-24 14:30:05,271 [ WARNING] subject_id is missing for 18516000.nwb
+2020-02-24 14:30:05,273 [ WARNING] subject_id is missing for 18516001.nwb
+2020-02-24 14:30:05,274 [ WARNING] subject_id is missing for 18516002.nwb
+2020-02-24 14:30:05,274 [ WARNING] subject_id is missing for 18516003.nwb
+2020-02-24 14:30:05,274 [ WARNING] subject_id is missing for 18516004.nwb
+2020-02-24 14:30:05,274 [ WARNING] subject_id is missing for 18516005.nwb
+2020-02-24 14:30:05,274 [ WARNING] subject_id is missing for 18516006.nwb
+2020-02-24 14:30:05,276 [ WARNING] 7 out of 297 files were found not containing all necessary metadata: 18516000.nwb, 18516001.nwb, 18516002.nwb, 18516003.nwb, 18516004.nwb, 18516005.nwb, 18516006.nwb They will be skipped
+2020-02-24 14:30:05,373 [ WARNING] 40 out of 290 paths are not unique:
+   sub-1/sub-1_tis-1-2_cell-c3_icephys.nwb: ['18516007.nwb', '18516008.nwb', '18516009.nwb', '18516010.nwb', '18516011.nwb', '18516012.nwb', '18516013.nwb', '18516014.nwb', '18516015.nwb']
+   sub-1/sub-1_tis-1-2_cell-c4_icephys.nwb: ['18516016.nwb', '18516017.nwb', '18516018.nwb', '18516019.nwb', '18516020.nwb', '18516021.nwb', '18516022.nwb', '18516023.nwb', '18516024.nwb', '18516025.nwb', '18516026.nwb']
+   sub-1/sub-1_tis-1-2_cell-c5_icephys.nwb: ['18516027.nwb', '18516028.nwb', '18516029.nwb', '18516030.nwb', '18516031.nwb', '18516032.nwb', '18516033.nwb', '18516034.nwb']
+   sub-1/sub-1_tis-1-2_icephys.nwb: ['18516035.nwb', '18516036.nwb']
+   sub-1/sub-1_tis-1-2_cell-c6_icephys.nwb: ['18516037.nwb', '18516038.nwb', '18516039.nwb', '18516040.nwb', '18516041.nwb', '18516042.nwb', '18516043.nwb']
+   sub-2/sub-2_cell-c8_icephys.nwb: ['18518001.nwb', '18518002.nwb', '18518003.nwb', '18518004.nwb', '18518005.nwb']
+   sub-2/sub-2_icephys.nwb: ['18518010.nwb', '18518011.nwb', '18518012.nwb', '18518013.nwb', '18518014.nwb']
+   sub-2/sub-2_tis-2-2_cell-c10_icephys.nwb: ['18518015.nwb', '18518016.nwb', '18518017.nwb', '18518018.nwb', '18518019.nwb', '18518020.nwb', '18518021.nwb']
+   sub-2/sub-2_tis-2-2_cell-c11_icephys.nwb: ['18518022.nwb', '18518023.nwb', '18518024.nwb', '18518025.nwb', '18518026.nwb', '18518027.nwb', '18518028.nwb', '18518029.nwb', '18518030.nwb']
+   sub-2/sub-2_tis-2-2_cell-c12_icephys.nwb: ['18518031.nwb', '18518032.nwb', '18518033.nwb', '18518034.nwb', '18518035.nwb', '18518036.nwb', '18518037.nwb']
+   sub-2/sub-2_tis-2-2_cell-c13_icephys.nwb: ['18518038.nwb', '18518039.nwb', '18518040.nwb', '18518041.nwb', '18518042.nwb', '18518043.nwb', '18518044.nwb', '18518045.nwb', '18518046.nwb', '18518047.nwb', '18518048.nwb', '18518049.nwb', '18518050.nwb', '18518051.nwb']
+   sub-2/sub-2_tis-2-2_cell-c14_icephys.nwb: ['18518052.nwb', '18518053.nwb', '18518054.nwb', '18518055.nwb', '18518056.nwb', '18518057.nwb', '18518058.nwb', '18518059.nwb', '18518060.nwb']
+   sub-2/sub-2_tis-2-2_cell-c15_icephys.nwb: ['18519000.nwb', '18519001.nwb', '18519002.nwb', '18519003.nwb']
+   sub-2/sub-2_tis-2-2_cell-c16_icephys.nwb: ['18519004.nwb', '18519005.nwb', '18519006.nwb', '18519007.nwb', '18519008.nwb']
+   sub-3/sub-3_tis-3-1_cell-c18_icephys.nwb: ['18523000.nwb', '18523001.nwb', '18523002.nwb', '18523003.nwb', '18523004.nwb', '18523005.nwb', '18523006.nwb', '18523007.nwb']
+   sub-3/sub-3_tis-3-1_cell-c19_icephys.nwb: ['18523008.nwb', '18523009.nwb', '18523010.nwb', '18523011.nwb', '18523012.nwb', '18523013.nwb', '18523014.nwb']
+   sub-3/sub-3_tis-3-1_cell-c20_icephys.nwb: ['18523015.nwb', '18523016.nwb', '18523017.nwb', '18523018.nwb', '18523019.nwb', '18523020.nwb', '18523021.nwb', '18523022.nwb', '18523023.nwb']
+   sub-3/sub-3_tis-3-2_cell-c21_icephys.nwb: ['18523024.nwb', '18523025.nwb', '18523026.nwb', '18523027.nwb', '18523028.nwb', '18523029.nwb', '18523030.nwb', '18523031.nwb', '18523032.nwb']
+   sub-3/sub-3_tis-3-2_cell-c22_icephys.nwb: ['18523033.nwb', '18523034.nwb', '18523035.nwb', '18523036.nwb', '18523037.nwb', '18523038.nwb']
+   sub-3/sub-3_tis-3-2_cell-c23_icephys.nwb: ['18523039.nwb', '18523040.nwb', '18523041.nwb', '18523042.nwb', '18523043.nwb', '18523044.nwb', '18523045.nwb']
+   sub-3/sub-3_tis-3-2_cell-c24_icephys.nwb: ['18523046.nwb', '18523047.nwb', '18523048.nwb', '18523049.nwb', '18523050.nwb', '18523051.nwb', '18523052.nwb', '18523053.nwb', '18523054.nwb', '18523055.nwb', '18523056.nwb']
+   sub-3/sub-3_tis-3-2_cell-c25_icephys.nwb: ['18523057.nwb', '18523058.nwb', '18523059.nwb', '18523060.nwb', '18523061.nwb', '18523062.nwb']
+   sub-3/sub-3_tis-3-2_cell-c26_icephys.nwb: ['18523063.nwb', '18523064.nwb', '18523065.nwb', '18523066.nwb', '18523067.nwb', '18523068.nwb', '18523069.nwb']
+   sub-3/sub-3_tis-3-2_cell-c27_icephys.nwb: ['18523070.nwb', '18523071.nwb', '18523072.nwb', '18523073.nwb', '18523074.nwb', '18523075.nwb', '18523076.nwb']
+   sub-3/sub-3_tis-3-2_cell-c28_icephys.nwb: ['18523077.nwb', '18523078.nwb', '18523079.nwb', '18523080.nwb', '18523081.nwb', '18523082.nwb', '18523083.nwb']
+   sub-3/sub-3_tis-3-2_cell-c29_icephys.nwb: ['18523084.nwb', '18523085.nwb', '18523086.nwb', '18523087.nwb', '18523088.nwb', '18523089.nwb']
+   sub-3/sub-3_tis-3-2_cell-c30_icephys.nwb: ['18523090.nwb', '18523091.nwb', '18523092.nwb', '18523093.nwb', '18523094.nwb', '18523095.nwb']
+   sub-4/sub-4_tis-4-1_cell-c32_icephys.nwb: ['18530001.nwb', '18530002.nwb', '18530003.nwb', '18530004.nwb', '18530005.nwb', '18530006.nwb']
+   sub-4/sub-4_tis-4-1_cell-c34_icephys.nwb: ['18530007.nwb', '18530008.nwb', '18530009.nwb', '18530010.nwb', '18530011.nwb', '18530012.nwb', '18530013.nwb', '18530014.nwb']
+   sub-4/sub-4_tis-4-1_cell-c35_icephys.nwb: ['18530015.nwb', '18530016.nwb', '18530017.nwb', '18530018.nwb', '18530019.nwb', '18530020.nwb', '18530021.nwb', '18530022.nwb']
+   sub-4/sub-4_tis-4-1_cell-c36_icephys.nwb: ['18530023.nwb', '18530024.nwb', '18530025.nwb', '18530026.nwb', '18530027.nwb']
+   sub-4/sub-4_tis-4-1_cell-c37_icephys.nwb: ['18530028.nwb', '18530029.nwb', '18530030.nwb', '18530031.nwb', '18530032.nwb', '18530033.nwb', '18530034.nwb']
+   sub-4/sub-4_tis-4-1_cell-c38_icephys.nwb: ['18531000.nwb', '18531001.nwb', '18531002.nwb', '18531003.nwb', '18531004.nwb']
+   sub-4/sub-4_tis-4-2_icephys.nwb: ['18531006.nwb', '18531007.nwb', '18531008.nwb', '18531009.nwb', '18531010.nwb', '18531011.nwb', '18531012.nwb', '18531013.nwb', '18531014.nwb']
+   sub-4/sub-4_tis-4-2_cell-c40_icephys.nwb: ['18531015.nwb', '18531016.nwb', '18531017.nwb', '18531018.nwb', '18531019.nwb', '18531020.nwb', '18531021.nwb', '18531022.nwb']
+   sub-4/sub-4_tis-4-2_cell-c41_icephys.nwb: ['18531023.nwb', '18531024.nwb', '18531025.nwb', '18531026.nwb', '18531027.nwb', '18531028.nwb', '18531029.nwb']
+   sub-4/sub-4_tis-4-2_cell-c42_icephys.nwb: ['18531030.nwb', '18531031.nwb', '18531032.nwb', '18531033.nwb', '18531034.nwb', '18531035.nwb', '18531036.nwb']
+   sub-4/sub-4_tis-4-2_cell-c43_icephys.nwb: ['18531037.nwb', '18531038.nwb', '18531039.nwb', '18531040.nwb', '18531041.nwb', '18531042.nwb', '18531043.nwb', '18531044.nwb']
+   sub-4/sub-4_tis-4-2_cell-c44_icephys.nwb: ['18531045.nwb', '18531046.nwb', '18531047.nwb', '18531048.nwb', '18531049.nwb', '18531050.nwb']
+   sub-4/sub-4_tis-4-2_cell-c45_icephys.nwb: ['18531051.nwb', '18531052.nwb', '18531053.nwb', '18531054.nwb', '18531055.nwb', '18531056.nwb']
+2020-02-24 14:30:05,395 [    INFO] Finished processing 290 paths (7 invalid skipped) with 40 having duplicates. Visit organized/kriegstein-icephys-2020
