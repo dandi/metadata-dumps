@@ -1,0 +1,6 @@
+2020-02-28 21:40:46,427 [ WARNING] 4 out of 99 paths are not unique:
+   sub-219253/sub-219253_ses-20140118_behavior+ecephys+ogen.nwb: ['Li_2015/exported_nwb2.0/ANM219253_2014-01-18_2.nwb', 'Li_2015/exported_nwb2.0/ANM219253_2014-01-18_3.nwb']
+   sub-219253/sub-219253_ses-20140119_behavior+ecephys+ogen.nwb: ['Li_2015/exported_nwb2.0/ANM219253_2014-01-19_4.nwb', 'Li_2015/exported_nwb2.0/ANM219253_2014-01-19_5.nwb']
+   sub-219253/sub-219253_ses-20140120_behavior+ecephys+ogen.nwb: ['Li_2015/exported_nwb2.0/ANM219253_2014-01-20_6.nwb', 'Li_2015/exported_nwb2.0/ANM219253_2014-01-20_7.nwb']
+   sub-219253/sub-219253_ses-20140121_behavior+ecephys+ogen.nwb: ['Li_2015/exported_nwb2.0/ANM219253_2014-01-21_8.nwb', 'Li_2015/exported_nwb2.0/ANM219253_2014-01-21_9.nwb']
+2020-02-28 21:40:46,429 [    INFO] Finished processing 99 paths (0 invalid skipped) with 4 having duplicates. Visit organized/svoboda-Li_2015

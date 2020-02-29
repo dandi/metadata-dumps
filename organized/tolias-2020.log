@@ -1,0 +1,5 @@
+2020-02-28 21:40:48,502 [ WARNING] nwb_version is ERROR for 20190227_sample_1.nwb
+2020-02-28 21:40:48,502 [ WARNING] nwb_version is ERROR for 20190506_sample_6.nwb
+2020-02-28 21:40:48,502 [ WARNING] nwb_version is ERROR for 20190507_sample_6.nwb
+2020-02-28 21:40:48,502 [ WARNING] 3 out of 1317 files were found not containing all necessary metadata: 20190227_sample_1.nwb, 20190506_sample_6.nwb, 20190507_sample_6.nwb They will be skipped
+2020-02-28 21:40:48,563 [    INFO] Finished processing 1314 paths (3 invalid skipped) with 0 having duplicates. Visit organized/tolias-2020
